@@ -1,1 +1,1 @@
-This is the final capstone for the IBM Data Science Professional Certificate.
+This is the Applied Data Science Capstone required to complete the IBM Data Science Professional Certificate.
